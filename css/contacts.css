@@ -152,6 +152,7 @@ main {
 }
 
 .info-contacts .info {
+  font-family: 'Arial';
   width: 240px;
   margin-left: 20px;
 }
@@ -162,6 +163,7 @@ main {
 
 table td {
   padding: 4px;
+  font-size: 14px;
 }
 
 table caption {
