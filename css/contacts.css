@@ -168,6 +168,7 @@ table td {
 
 table caption {
   text-align: left;
+  font-size: 14px;
 }
 
 table caption:nth-child(2) {
